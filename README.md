@@ -69,12 +69,7 @@ Restaurant management web platform for online ordering, reservations and databas
 
 
 
-### Reinforcement Learning — FrozenLake
-Implementation of Value Iteration and Policy Iteration algorithms on the FrozenLake environment.
 
-`Python` `Gymnasium` `Reinforcement Learning` `MDP`
-
----
 
 ## Contact
 
