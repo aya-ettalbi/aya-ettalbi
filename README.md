@@ -27,27 +27,6 @@ I have worked on projects involving:
 
 ---
 
-## Technical Skills
-
-**Data Engineering & Big Data**  
-Python · SQL · ETL/ELT · Apache Spark · PySpark · Kafka · Airflow · Data Warehouse · Data Lake
-
-**Machine Learning & AI**  
-Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Machine Learning · Deep Learning · Computer Vision · Anomaly Detection
-
-**Generative AI**  
-LLM · RAG · AI Agents · Hugging Face · OpenRouter · Ollama · Prompt Engineering
-
-**Backend & Databases**  
-FastAPI · REST APIs · SQLAlchemy · PostgreSQL · MySQL · Oracle · MongoDB
-
-**Business Intelligence & Visualization**  
-Power BI · Tableau · Pentaho PDI · Streamlit · Grafana
-
-**DevOps & Cloud**  
-Docker · Kubernetes · Git · GitHub · CI/CD · Azure · MLOps
-
----
 
 # Featured Projects
 
