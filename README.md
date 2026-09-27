@@ -67,12 +67,7 @@ Restaurant management web platform for online ordering, reservations and databas
 
 ---
 
-### MiniPKI Keyserver
-Public-key management platform for uploading, searching and managing cryptographic keys.
 
-`Flask` `PostgreSQL` `GnuPG` `React`
-
----
 
 ### Reinforcement Learning — FrozenLake
 Implementation of Value Iteration and Policy Iteration algorithms on the FrozenLake environment.
