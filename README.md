@@ -25,6 +25,18 @@ The platform integrates historical analytics, semantic search, a RAG-based AI as
 
 ---
 
+### EventSphere — Event Management Platform
+
+Full-stack event management and booking platform designed to manage events, user reservations and ticket generation through a role-based system.
+
+The application includes separate workflows for administrators and clients, JWT-based authentication, event management, reservation processing and Oracle database integration.
+
+**Technologies:**  
+`React` `Node.js` `Express` `Oracle Database` `JWT` `REST API`
+
+[View Repository](https://github.com/aya-ettalbi/eventsphere-event-management-platform)
+
+---
 ### GAB Intelligence
 
 Intelligent ATM supervision and predictive maintenance platform designed to analyze operational data, identify anomalies and support failure-risk assessment.
