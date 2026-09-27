@@ -78,5 +78,7 @@ Implementation of Value Iteration and Policy Iteration algorithms on the FrozenL
 
 ## Contact
 
-- GitHub: https://github.com/aya-ettalbi
-- LinkedIn: https://www.linkedin.com/in/aya-ettalbi-0a5012336
+
+- GitHub: [aya-ettalbi](https://github.com/aya-ettalbi)
+- LinkedIn: [Aya Ettalbi](https://www.linkedin.com/in/aya-ettalbi-0a5012336)
+- Email: [ayaettalbi2@gmail.com](mailto:ayaettalbi2@gmail.com)
